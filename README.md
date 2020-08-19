@@ -12,6 +12,7 @@ As I add to my digital portfolio, please visit periodically for an update.
  📫 How to reach me directly : schnettler.ty@gmail.com
 
 For a detailed look into my background and interests please vist :
-- ![Website](https://www.pipewayrunner.com/) 💼
-- ![Linkedin](https://www.linkedin.com/in/ty-schnettler-77570b9/) 💼
+- <a href="https://www.pipewayrunner.com/">Website</a> 💼
+- <a kref="https://www.linkedin.com/in/ty-schnettler-77570b9/">Linkedin</a> 💼
+
 
