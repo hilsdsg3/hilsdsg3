@@ -1,7 +1,6 @@
 # Howdy, I am Ty Schnettler
 
-<img src="https://github.com/hilsdsg3/hilsdsg3/blob/master/meta_data/wood_floor.png" alt="banner that says Ty Schnettler - data engineer who is passionate about quantitative finance development,
-machine learning, software development, and elevating people">
+<p align="center"><img width=60% src="https://github.com/hilsdsg3/hilsdsg3/blob/master/meta_data/Wood_floor_with_text.png"></p>
 
 I have a mechanical engineering and account management background full of successful experiences 
 which round me out to be the engineer and leader I have become.
