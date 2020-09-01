@@ -7,7 +7,7 @@ which round me out to be the engineer and leader I have become.
 
 As I add to my digital portfolio, please visit periodically for an update.
 
-This is my first <a href="https://hilsdsg3.github.io/hildsg3/">Github</a> page in which I have interactive plotly charts.
+This is my first <a href="https://hilsdsg3.github.io/github_page/">Github</a> page in which I have interactive plotly charts.
  
  📫 How to reach me directly : schnettler.ty@gmail.com
 
