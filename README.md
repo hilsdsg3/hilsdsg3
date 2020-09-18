@@ -3,7 +3,7 @@
 <p align="center"><img width=100% src="https://github.com/hilsdsg3/hilsdsg3/blob/master/meta_data/Wood_floor_with_text_.png"></p>
 
 Also I have mechanical engineering and account management professional backgrounds, full of successful experiences 
-which round me out to be the engineer and leader I have become.
+which i have leaned from and round me out to be the engineer and leader I have become.
 
 As I add to my digital portfolio, please visit periodically for an update.
  
