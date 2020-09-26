@@ -12,4 +12,5 @@ For a detailed look into my background and interests please vist :
 - <a href="https://www.pipewayrunner.com/">Website</a> 💼
 - <a href="https://www.linkedin.com/in/ty-schnettler-77570b9/">Linkedin</a> 💼
 
+<br>
 
