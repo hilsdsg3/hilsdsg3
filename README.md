@@ -5,11 +5,10 @@
 Also I have mechanical engineering and product management backgrounds which I have grown from to be the engineer and leader I have become.
 
 As I add to my digital portfolio, please visit periodically for an update.
- 
+
  📫 How to reach me directly : schnettler.ty@gmail.com
 
-For a detailed look into my background and interests please vist :
+For a detailed look into my background and interests please visit :
 - <a href="https://www.linkedin.com/in/ty-schnettler-77570b9/">Linkedin</a> 💼
 
 <br>
-
